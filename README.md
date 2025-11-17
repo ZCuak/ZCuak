@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-Desarrollador apasionado por crear soluciones innovadoras y eficientes. Especializado en desarrollo web full stack con experiencia en múltiples tecnologías y frameworks modernos.
+Ingeniero en Sistemas y Computación. Desarrollador apasionado por crear soluciones innovadoras y eficientes. Especializado en desarrollo web full stack con experiencia en múltiples tecnologías y frameworks modernos.
 </p>
 
 ---
